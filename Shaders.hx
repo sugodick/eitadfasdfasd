@@ -1,6 +1,6 @@
 package;
 
-// STOLEN FROM HAXEFLIXEL DEMO AND FROM PSYCH ENGINE 0.5.1 WITH SHADERS LOL
+// STOLEN FROM HAXEFLIXEL DEMO AND FROM PSYCH ENGINE 0.5.1 WITH SHADERS LOL yes
 import flixel.system.FlxAssets.FlxShader;
 import openfl.display.BitmapData;
 import openfl.display.Shader;
